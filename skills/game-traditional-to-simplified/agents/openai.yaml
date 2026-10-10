@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏繁体转简体 MOD"
+  short_description: "自动转换游戏官方繁体文本、统一中文字形并打包，优先后台完成无需手动操作"
+  default_prompt: "使用 $game-traditional-to-simplified 自动将这款游戏的官方繁体中文转换为简体 MOD；自行执行安全的检测、转换、字体检查与打包，按已有授权处理启用，不要求我操作 Frosty 界面。"

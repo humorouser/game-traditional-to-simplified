@@ -1,0 +1,9 @@
+{
+  "description": "UI 用语采用用户要求；塑膠怪是官方字幕中反复出现的角色名，使用字形转换塑胶怪，避免 tw2sp 将专名改为塑料怪。其他原有译名不重新翻译。protected_terms 可添加需要完全保留的名称；replacements 按原文最长匹配。",
+  "replacements": {
+    "遊戲設定": "游戏设置",
+    "塑膠怪": "塑胶怪"
+  },
+  "protected_terms": [],
+  "additional_protected_regex": []
+}
